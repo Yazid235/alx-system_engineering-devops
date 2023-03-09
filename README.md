@@ -1,1 +1,1 @@
-symbolic links
+shell permossions
